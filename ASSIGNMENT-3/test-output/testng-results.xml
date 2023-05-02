@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-28T23:54:04 ICT" name="Default suite" finished-at="2023-04-28T23:54:05 ICT" duration-ms="1489">
+    <groups>
+    </groups>
+    <test started-at="2023-04-28T23:54:04 ICT" name="Default test" finished-at="2023-04-28T23:54:05 ICT" duration-ms="1489">
+      <class name="com.api.auto.testcase.TC_API_Login">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:04 ICT" name="init" finished-at="2023-04-28T23:54:05 ICT" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC01_Validate200Ok()[pri:0, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:05 ICT" name="TC01_Validate200Ok" finished-at="2023-04-28T23:54:05 ICT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Validate200Ok -->
+        <test-method signature="TC02_ValidateID()[pri:1, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:05 ICT" name="TC02_ValidateID" finished-at="2023-04-28T23:54:05 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_ValidateID -->
+        <test-method signature="TC03_ValidateMessage()[pri:2, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:05 ICT" name="TC03_ValidateMessage" finished-at="2023-04-28T23:54:05 ICT" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_ValidateMessage -->
+        <test-method signature="TC04_ValidateToken()[pri:3, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:05 ICT" name="TC04_ValidateToken" finished-at="2023-04-28T23:54:05 ICT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_ValidateToken -->
+        <test-method signature="TC05_ValidateUserType()[pri:4, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:05 ICT" name="TC05_ValidateUserType" finished-at="2023-04-28T23:54:05 ICT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_ValidateUserType -->
+        <test-method signature="TC06_ValidateAccount()[pri:5, instance:com.api.auto.testcase.TC_API_Login@2cf3d63b]" started-at="2023-04-28T23:54:05 ICT" name="TC06_ValidateAccount" finished-at="2023-04-28T23:54:05 ICT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_ValidateAccount -->
+      </class> <!-- com.api.auto.testcase.TC_API_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
